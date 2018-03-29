@@ -3,7 +3,7 @@ import os, random
 import sys
 from math import log
 
-#Developed by cyb3r3xr..........Free to develop tis code
+#Developed by cyb3r3xr..........Free to develop this code
 #but don't copy.....cause it makes you LOL xd
 
 try:
