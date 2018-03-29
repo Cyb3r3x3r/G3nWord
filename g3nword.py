@@ -5,7 +5,7 @@ from math import log
 
 #Developed by cyb3r3xr..........Free to develop this code
 #but don't copy.....cause it makes you LOL xd
-
+#tell me if it has any bugs
 Version = '0.1'
 
 try:
@@ -14,6 +14,7 @@ try:
     r = Fore.RED
     m = Fore.MAGENTA
     y = Fore.YELLOW
+    res = Style.RESET_ALL
 except ImportError:
     print('[-] Cannot find module colorama')
     print(' [*] Install by pip install colorama')
