@@ -6,6 +6,8 @@ from math import log
 #Developed by cyb3r3xr..........Free to develop this code
 #but don't copy.....cause it makes you LOL xd
 
+Version = '0.1'
+
 try:
     from colorama import Fore, Back, Style
     g = Fore.GREEN
@@ -78,7 +80,8 @@ class G3nWord():
              | | |_ ||__ <| '_ \ \/  \/ / _ \| '__/ _` |
              | |__| |___) | | | \  /\  / (_) | | | (_| |
               \_____|____/|_| |_|\/  \/ \___/|_|  \__,_|
-                  Developed by Cyb3r3x3r - ICG                          
+                  Developed by Cyb3r3x3r - ICG 
+                            Version - 0.1
          ######################################################                                   
 """)
     def erro1(self):
