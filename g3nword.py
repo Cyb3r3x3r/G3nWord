@@ -59,8 +59,8 @@ class G3nWord():
                     print(g + ' [+]GENERATED :           ',self.mix_gen(name,str1))
                 print(g + '---------------------------------------------------')
             else:
-                sys.logo()
-                sys.help()
+                self.logo()
+                self.help()
                 sys.exit()
         except IndexError:
             self.logo()
